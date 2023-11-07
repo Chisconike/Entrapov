@@ -1,0 +1,62 @@
+/* Navbar */
+nav ul li a:hover {
+  color: #fbb750 !important;
+}
+
+nav ul li {
+  padding: 0px 5px;
+}
+
+nav {
+  background: #fbb750 !important;
+}
+
+/* Navbar Ends */
+
+
+
+/* HomePage */
+.btn1 {
+  background: #fcaf3b;
+  border: 1px solid black;
+}
+
+.btn2 {
+  background: #f3f806;
+  border: 1px solid black;
+}
+
+.btn3 {
+  background: #77b978;
+  border: 1px solid black;
+}
+
+.btn4 {
+  background: #fcaf3b;
+  border: 1px solid black;
+}
+
+/* Section4 */
+#section4 ul li {
+  padding: 8px 0px;
+}
+
+#section4 .img1 {
+  width: 100%;
+  max-height: 500px;
+  object-fit: contain;
+}
+
+/* About Page */
+.founders_name {
+  position: absolute;
+  bottom: 0;
+}
+
+.card img {
+  object-fit: contain !important;
+}
+
+form {
+  background: #e3e3e3;
+}
