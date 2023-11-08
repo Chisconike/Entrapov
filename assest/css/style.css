@@ -1,14 +1,20 @@
 /* Defaults */
 p {
-  font-size: 20px;
+  font-size: 18px;
 }
+
+/* .btn3 {
+  width: 280px;
+  height: 50px;
+} */
 
 a:hover {
   color: #fbb750 !important;
 }
 
 .color {
-  color: #FD8800;
+  /* color: #FD8800; */
+  /* color: white; */
 }
 
 /* Navbar */
@@ -32,21 +38,29 @@ nav {
 .btn1 {
   background: #fcaf3b;
   border: 1px solid black;
+  width: 280px;
+  height: 50px;
 }
 
 .btn2 {
   background: #f3f806;
   border: 1px solid black;
+  width: 280px;
+  height: 50px;
 }
 
 .btn3 {
   background: #77b978;
   border: 1px solid black;
+  width: 280px;
+  height: 50px;
 }
 
 .btn4 {
   background: #fcaf3b;
   border: 1px solid black;
+  width: 280px;
+  height: 50px;
 }
 
 /* Section4 */
