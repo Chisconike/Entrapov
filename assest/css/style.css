@@ -3,6 +3,13 @@ p {
   font-size: 20px;
 }
 
+a:hover {
+  color: #fbb750 !important;
+}
+
+.color {
+  color: #FD8800;
+}
 
 /* Navbar */
 nav ul li a:hover {
